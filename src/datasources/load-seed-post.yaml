@@ -1,0 +1,26 @@
+load:
+  tiendas: 20
+  zonas: 5
+
+  distribucion:
+    tipo: pareto
+    peso_cabeza: 0.8
+    fraccion_cabeza: 0.2
+
+  productos: 1000
+  catalogos: 50
+  catalogos_productos: 5000
+  promociones: 1000
+  pedidos: 10000
+  items_pedido: 30000
+  despachos: 3000
+  disponibilidad_zona: 5000
+  notas_credito: 1000
+
+  items_inventario: 2000
+  registros_compra_producto_tienda: 3000
+  registros_venta_producto_tienda: 3000
+
+  productos_externos: 200
+  ventas: 2000
+  items_venta: 5000
