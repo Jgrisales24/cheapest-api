@@ -1,0 +1,164 @@
+{
+  "identificador": "PED-LOAD-BASE",
+  "tiendaId": "bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb",
+  "fechaHoraCreacion": "2026-09-08T18:00:00.000Z",
+  "montoTotal": 220000,
+  "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc",
+  "estado": "creado",
+  "items": [
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+      "cantidad": 1,
+      "precioUnitario": 12000,
+      "descuento": 0,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    },
+    {
+      "productoId": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaab",
+      "cantidad": 1,
+      "precioUnitario": 8500,
+      "descuento": 500,
+      "monedaId": "cccccccc-cccc-4ccc-8ccc-cccccccccccc"
+    }
+  ]
+}
